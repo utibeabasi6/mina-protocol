@@ -30,4 +30,4 @@ Refer to [the mina documentation](https://docs.minaprotocol.com/en/using-mina/co
 
 # Hire me
 
-Looking for a DevOps engineer or SRE to join your team? Reach out to me via email [utibeabasiumanah6@gmail.com](utibeabasiumanah6@gmail.com)
+Looking for a DevOps engineer or SRE to join your team? Reach out to me via email [utibeabasiumanah6@gmail.com](mailto:utibeabasiumanah6@gmail.com)
