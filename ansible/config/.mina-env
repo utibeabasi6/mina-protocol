@@ -1,0 +1,4 @@
+CODA_PRIVKEY_PASS="gopher"
+LOG_LEVEL=Info
+FILE_LOG_LEVEL=Debug
+EXTRA_FLAGS=" --block-producer-key keys/my-wallet"
